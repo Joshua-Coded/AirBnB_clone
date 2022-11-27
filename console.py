@@ -11,6 +11,8 @@ from models.city import City
 from models.amenity import Amenity
 from models.review import Review
 
+def _split(line):
+    return line.split()
 
 class HBNBCommand(cmd.Cmd):
     """ Contains the functionality for the HBNB console"""
