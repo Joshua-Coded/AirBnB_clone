@@ -2,7 +2,7 @@
 
 Project Description 
 
-Here, We'll be cloning the console psrt of the AirBnB clone Project.
+Here, We'll be cloning the console part of the AirBnB clone Project.
 
 We'll be writing a command interpreter to manage our AirBnb objects.
 
